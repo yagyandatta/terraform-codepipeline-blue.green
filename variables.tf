@@ -1,10 +1,10 @@
 #################### CODECOMMIT ########################
-variable "smartsense_service_repo_name" {
+variable "service_repo_name" {
     description = "value"
     type = string
 }
 
-variable "smartsense_portal_repo_name" {
+variable "portal_repo_name" {
     description = "value"
     type = string
 }
